@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-12T20:23:49 IST" name="Default suite" finished-at="2022-08-12T20:24:29 IST" duration-ms="40799">
+    <groups>
+    </groups>
+    <test started-at="2022-08-12T20:23:49 IST" name="Default test" finished-at="2022-08-12T20:24:29 IST" duration-ms="40799">
+      <class name="webpage.Flipcart">
+        <test-method signature="xyz()[pri:0, instance:webpage.Flipcart@7a69b07]" started-at="2022-08-12T20:23:49 IST" name="xyz" finished-at="2022-08-12T20:24:29 IST" duration-ms="40620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xyz -->
+      </class> <!-- webpage.Flipcart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
